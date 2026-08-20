@@ -56,8 +56,8 @@ Escolha uma área para investigar:
 **Descreva, em poucas linhas, o problema que sua equipe pretende analisar.**
 
 > Escreva aqui: 
->  um dos principais problemas do curso web, é saber aonde estudante tende a desistir ou pausar a materia.
-> ---
+>  
+> --- um dos principais problemas do curso web, é saber aonde estudante tende a desistir ou pausar a materia.
 >
 > ---
 >
