@@ -13,8 +13,8 @@
 
 | Campo             | Resposta |
 | ----------------- | -------- |
-| **Turma:**        |          |
-| **Data:**         |          |
+| **Turma:**        | Sistema de informação         |
+| **Data:**         | 19/08         |
 | **Equipe:**       |   1       |
 | **Integrante 1:** | Lucas Dias Fortes de Andrade         |
 | **Integrante 2:** |          |
@@ -44,7 +44,7 @@ Escolha uma área para investigar:
 * [ ] Banco
 * [ ] Saúde
 * [ ] Transporte
-* [ ] Educação
+* [X ] Educação
 * [ ] Entretenimento
 * [ ] Indústria
 * [ ] Meio ambiente
@@ -55,7 +55,7 @@ Escolha uma área para investigar:
 
 **Descreva, em poucas linhas, o problema que sua equipe pretende analisar.**
 
-> Escreva aqui:
+> Escreva aqui: um dos principais problemas do curso web, é saber aonde estudante tende a desistir ou pausar a materia.
 >
 > ---
 >
