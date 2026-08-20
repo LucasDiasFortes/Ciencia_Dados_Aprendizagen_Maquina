@@ -15,8 +15,8 @@
 | ----------------- | -------- |
 | **Turma:**        |          |
 | **Data:**         |          |
-| **Equipe:**       |          |
-| **Integrante 1:** |          |
+| **Equipe:**       |   1       |
+| **Integrante 1:** | Lucas Dias Fortes de Andrade         |
 | **Integrante 2:** |          |
 | **Integrante 3:** |          |
 | **Integrante 4:** |          |
