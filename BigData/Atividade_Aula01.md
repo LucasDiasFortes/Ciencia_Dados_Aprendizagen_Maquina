@@ -89,7 +89,7 @@ Explique por que vale a pena investigar esse problema utilizando dados.
 
 **Qual é o impacto do problema?**
 
-> ---
+> --- Esse problema impacta na conclusão do aprendizado do aluno e na qualidade de ensino do professor
 >
 > ---
 >
@@ -103,7 +103,7 @@ Imagine que sua equipe foi contratada para ajudar uma organização.
 
 **Qual decisão a organização precisa tomar?**
 
-> ---
+> ---  A organização precisa desenvolver uma solução que identifique quais problemas que o estudando está tendo, e passar o feedback ao Professor
 >
 > ---
 >
@@ -121,11 +121,11 @@ Liste pelo menos **5 dados**.
 
 | Nº | Dado necessário | Por que esse dado é importante? |
 | -: | --------------- | ------------------------------- |
-|  1 |                 |                                 |
-|  2 |                 |                                 |
-|  3 |                 |                                 |
-|  4 |                 |                                 |
-|  5 |                 |                                 |
+|  1 |Tempo de conclusão das disciplinas|                                 |
+|  2 |Quantos alunos concluiram   |                                 |
+|  3 |Quantos alunos se inscreveram |                                 |
+|  4 |As notas de avaliações deles  |                                 |
+|  5 |Quais disciplinas foram concluidas  |                                 |
 
 ### Exemplos
 
