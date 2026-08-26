@@ -178,11 +178,11 @@ Pense como um cientista de dados.
 Sua equipe poderia procurar:
 
 * [ ] Tendências
-* [ ] Comparações
+* [X ] Comparações
 * [ ] Grupos semelhantes
 * [ ] Comportamentos recorrentes
-* [ ] Valores fora do padrão
-* [ ] Relações entre variáveis
+* [ X] Valores fora do padrão
+* [X ] Relações entre variáveis
 * [ ] Mudanças ao longo do tempo
 * [ ] Outros: __________________________
 
@@ -203,8 +203,8 @@ Como os dados poderiam ser analisados?
 Marque uma ou mais possibilidades:
 
 * [ ] Análise descritiva
-* [ ] Comparação entre grupos
-* [ ] Análise temporal
+* [X ] Comparação entre grupos
+* [X ] Análise temporal
 * [ ] Visualização por gráficos
 * [ ] Identificação de padrões
 * [ ] Classificação
