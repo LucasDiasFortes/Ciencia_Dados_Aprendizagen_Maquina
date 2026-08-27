@@ -121,11 +121,11 @@ Liste pelo menos **5 dados**.
 
 | Nº | Dado necessário | Por que esse dado é importante? |
 | -: | --------------- | ------------------------------- |
-|  1 |Tempo de conclusão das disciplinas| é importante saber se os alunos estão respondendo em um tempo moderado                                |
-|  2 |Quantos alunos concluiram   |     importante saber se muitos alunos conseguiram concluir as tarefas                            |
-|  3 |Quantos alunos se inscreveram |  sabe quantos alunos estão participando da materia                               |
+|  1 |Tempo de conclusão das disciplinas| é importante saber se os alunos estão respondendo em um tempo moderado      |
+|  2 |Quantos alunos concluiram    | importante saber se muitos alunos conseguiram concluir as tarefas                |
+|  3 |Quantos alunos se inscreveram |  sabe quantos alunos estão participando da materia                              |
 |  4 |As notas de avaliações deles  |  avaliar se estão tendo dificuldades                               |
-|  5 |Quais disciplinas foram concluidas  |  avaliar quais diciplinas eles tiveram interesse e se conseguiram conclir                               |
+|  5 |Quais disciplinas foram concluidas  |  avaliar quais diciplinas eles tiveram interesse e se conseguiram conclir |
 
 ### Exemplos
 
