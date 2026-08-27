@@ -155,19 +155,19 @@ Os dados, quando analisados, podem gerar informações úteis.
 
 ### Pergunta 1
 
-> ---
+> --- Quantos alunos se interessaram pela aula
 
 ### Pergunta 2
 
-> ---
+> --- Quantos concluiram a aula
 
 ### Pergunta 3
 
-> ---
+> --- Qual a media de conclusão
 
 ### Pergunta 4
 
-> ---
+> --- Que materia tiveram mais dificuldade
 
 ---
 
@@ -227,7 +227,7 @@ Depois de analisar os dados, imagine que sua equipe encontrou informações impo
 **Que decisão poderia ser tomada com base nos resultados?**
 
 > ---
->
+> Dá mais atenção aos conteúdos que houve uma queda de conclusão e com isso alterar ou adicionar mais explicações.
 > ---
 >
 > ---
@@ -239,7 +239,7 @@ Depois de analisar os dados, imagine que sua equipe encontrou informações impo
 Qual seria o possível benefício da decisão para a organização ou para as pessoas envolvidas?
 
 > ---
->
+> Ter mais alunos que concluíram o curso, um conteudo mais completo, além de que o professor receba melhores avaliações 
 > ---
 >
 > ---
@@ -252,20 +252,20 @@ Analise o problema escolhido pela equipe.
 
 | V              | Pergunta                                                   | Resposta da equipe |
 | -------------- | ---------------------------------------------------------- | ------------------ |
-| **Volume**     | Existe uma grande quantidade de dados?                     |                    |
+| **Volume**     | Existe uma grande quantidade de dados?                     |Sim, tem uma grande quantidade de dados           |
 | **Velocidade** | Os dados são gerados ou processados rapidamente?           |                    |
-| **Variedade**  | Existem diferentes tipos ou formatos de dados?             |                    |
-| **Veracidade** | Os dados podem apresentar erros ou problemas de qualidade? |                    |
-| **Valor**      | Os dados podem gerar algum benefício ou apoiar decisões?   |                    |
+| **Variedade**  | Existem diferentes tipos ou formatos de dados?             |Sim tem diferentes tipos, como o booling, int e string                  |
+| **Veracidade** | Os dados podem apresentar erros ou problemas de qualidade? | Podem, como queremos ver a duração deles nas atividades, eles podem sair no meio das atividades e gerar um tempo incorreto.               |
+| **Valor**      | Os dados podem gerar algum benefício ou apoiar decisões?   |  podem ajudar saber as dificuldades e auxiliar os alunos                  |
 
 ### Qual dos 5 Vs é mais relevante para o problema?
 
-> ---
+> --- Volume
 
 ### Justifique
 
 > ---
->
+> pois é necessario de um banco de dados que suporte os dados de milhares de alunos
 > ---
 
 ---
