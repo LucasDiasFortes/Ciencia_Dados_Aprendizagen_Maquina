@@ -72,13 +72,13 @@ Identifique a organização, grupo ou público afetado pelo problema.
 **Quem possui ou enfrenta esse problema?**
            
 > ---
-> Os principais afetados são os alunos que desistiram e o professor pela perda de alunos.
+> Os principais afetados são os alunos que abandonam a materia e o professor pela perda de alunos em sua materia.
 > ---
 
 ### Quem é afetado pelo problema?
 
 > ---
->
+> todos são afetados.
 > ---
 
 ---
@@ -177,7 +177,7 @@ Pense como um cientista de dados.
 
 Sua equipe poderia procurar:
 
-* [ ] Tendências
+* [X ] Tendências
 * [X ] Comparações
 * [ ] Grupos semelhantes
 * [ ] Comportamentos recorrentes
@@ -189,7 +189,7 @@ Sua equipe poderia procurar:
 ### Explique um padrão que vocês gostariam de encontrar
 
 > ---
->
+> em que etapa do ensino tem o maior abandono e como vai a sua avaliação até aquele momento.
 > ---
 >
 > ---
@@ -239,7 +239,7 @@ Depois de analisar os dados, imagine que sua equipe encontrou informações impo
 Qual seria o possível benefício da decisão para a organização ou para as pessoas envolvidas?
 
 > ---
-> Ter mais alunos que concluíram o curso, um conteudo mais completo, além de que o professor receba melhores avaliações 
+> Ter mais alunos que concluíram o curso, um conteudo mais completo, além de que o professor receba melhores avaliações e feedbacks.
 > ---
 >
 > ---
@@ -253,8 +253,8 @@ Analise o problema escolhido pela equipe.
 | V              | Pergunta                                                   | Resposta da equipe |
 | -------------- | ---------------------------------------------------------- | ------------------ |
 | **Volume**     | Existe uma grande quantidade de dados?                     |Sim, tem uma grande quantidade de dados           |
-| **Velocidade** | Os dados são gerados ou processados rapidamente?           |                    |
-| **Variedade**  | Existem diferentes tipos ou formatos de dados?             |Sim tem diferentes tipos, como o booling, int e string                  |
+| **Velocidade** | Os dados são gerados ou processados rapidamente?           | são geradas rapidamentes, no mesmo momento que houver alguma conclusão em uma materia ela é guardada no banco na mesma hora e processa na comparação entre outros alunos o tempo de conclusão. |
+| **Variedade**  | Existem diferentes tipos ou formatos de dados?             |Sim tem diferentes tipos, como booling e string nas questões além do int nas avaliações e notas.                |
 | **Veracidade** | Os dados podem apresentar erros ou problemas de qualidade? | Podem, como queremos ver a duração deles nas atividades, eles podem sair no meio das atividades e gerar um tempo incorreto.               |
 | **Valor**      | Os dados podem gerar algum benefício ou apoiar decisões?   |  podem ajudar saber as dificuldades e auxiliar os alunos                  |
 
@@ -265,7 +265,7 @@ Analise o problema escolhido pela equipe.
 ### Justifique
 
 > ---
-> pois é necessario de um banco de dados que suporte os dados de milhares de alunos, 
+> pois é necessario de um banco de dados que suporte os dados de milhares de alunos no qual não tenho uma maquina para guardar tantos dados. 
 > ---
 
 ---
@@ -316,27 +316,27 @@ Complete o fluxo abaixo:
 
 **Problema:**
 
->
+> Identicar onde os alunos tem maior dificuldade ou abandonam o curso
 
 **Dados:**
 
->
+> notas, tempo de conclusão, inscrições e conclusões.
 
 **Informação:**
 
->
+> descobrir quais disciplinas tem mais dificuldades e abandono.
 
 **Análise:**
 
->
+> comparar disciplinas, notas, tempo e conclusão e taxa de abandono
 
 **Decisão:**
 
->
+> Melhorar os conteúdos com maior dificuldade e oferecer mais explicações de apoio
 
 **Benefício:**
 
->
+> terá mais alunos concluindo o curso e melhora a qualidade do ensino
 
 ---
 
