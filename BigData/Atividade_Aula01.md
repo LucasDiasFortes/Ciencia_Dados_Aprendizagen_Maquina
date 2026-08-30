@@ -277,7 +277,9 @@ Complete o fluxo abaixo:
 ```text
 ┌─────────────────────┐
 │       PROBLEMA      │
-│                     │
+│          Identificar em quais etapas os alunos       │
+│ apresentam maior dificuldade ou abandonam   │
+│ ou pausam as disciplinas do curso.            │
 │                     │
 └──────────┬──────────┘
            ↓
