@@ -15,10 +15,10 @@ se eu tivesse apenas 1 computador de 16 gb de ram para minha empresa que possui 
 Registro da atividade
 
 Mapa do problema: sistema de cursos web
-problema:
-dados necessarios:
-informação buscada:
-possivel analise:
-decisão:
-beneficio esperado:
+problema: Identificar em qual etapa do curso os alunos estão abandonando a plataforma.
+dados necessarios: Dados de acesso, matrícula, aulas assistidas, atividades realizadas, avaliações, progresso e data do último acesso de cada aluno.
+informação buscada: A etapa, aula ou módulo em que ocorre a maior concentração de abandono dos alunos.
+possivel analise: Comparar a quantidade de alunos que iniciam e concluem cada etapa, identificando os pontos com maior taxa de desistência.
+decisão: Investigar as etapas com maior abandono e realizar melhorias no conteúdo, atividades, dificuldade ou experiência do usuário.
+beneficio esperado: Reduzir a taxa de abandono, aumentar a conclusão dos cursos e melhorar a experiência dos alunos.
 
